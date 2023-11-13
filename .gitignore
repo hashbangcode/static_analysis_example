@@ -1,0 +1,40 @@
+# OS generated files
+*~
+.directory
+.DS_Store*
+.project
+.settings
+.svn
+.AppleDouble
+.LSOverride
+Desktop.ini
+
+# Thumbnails
+._*
+Thumbs.db
+ehthumbs.db
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# IDE generated files
+*.bbprojectd
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.tmproj
+*~.nib
+.idea
+.komodotools
+nbproject
+atlassian-ide-plugin.xml
+.vscode
+
+# Composer files.
+vendor
